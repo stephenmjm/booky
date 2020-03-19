@@ -1,5 +1,5 @@
 # booky
-
+一个可以给PDF批量导入侧边栏目录（书签）的脚本，只需简单定义一个文本文件即可。
 This script creates bookmarks of a pdf from a simple text file. The tool `pdftk` can already do this infact
 internally I am using that tool itself. But `pdftk` requires a format which is too tedious to write. So I have written
 this script to enter bookmarks data in a simple format.
